@@ -11,6 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     background: hsl(212, 45%, 89%);
+    min-height: 100vh; 
 }
 .container{
     max-width: 300px;
@@ -19,7 +20,7 @@ body{
     text-align: center;
     padding: 10px;
     border-radius: 15px;
-     margin: 50px 0;
+  
 }
 .container img{
     width: 100%;
